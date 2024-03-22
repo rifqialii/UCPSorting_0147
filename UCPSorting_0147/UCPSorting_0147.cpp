@@ -6,7 +6,9 @@
 
 #include <iostream>
 
-int main()
+int Rifqy(47);
+
+int main();
 {
 #include <algorithm> // for std::swap
 
